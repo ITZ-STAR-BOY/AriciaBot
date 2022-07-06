@@ -10,10 +10,10 @@
 ### Rest Easy Now Let Vexana Manage your group. 
 <p align="center"><a href=><img src="https://telegra.ph/file/4a7d5037bcdd1e74a517a.jpg" width="400"></a></p>
 <p align="center">
-    <a href="https://github.com/aksr-aashish/vexana"> <img src="https://img.shields.io/github/repo-size/aksr-aashish/vexana?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/aksr-aashish/vexana/commits/aksr-aashish"> <img src="https://img.shields.io/github/last-commit/aksr-aashish/vexana?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/aksr-aashish/vexana/issues"> <img src="https://img.shields.io/github/issues/aksr-aashish/vexana?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/aksr-aashish/vexana/network/members"> <img src="https://img.shields.io/github/forks/aksr-aashish/vexana?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
+    <a href="https://github.com/ITZ-STAR-BOY/AriciaBot"> <img src="https://img.shields.io/github/repo-size/ITZ-STAR-BOY/AriciaBot?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/ITZ-STAR-BOY/AriciaBot/commits/aksr-aashish"> <img src="https://img.shields.io/github/last-commit/ITZ-STAR-BOY/AriciaBot?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/ITZ-STAR-BOY/AriciaBot/issues"> <img src="https://img.shields.io/github/issues/ITZ-STAR-BOY/AriciaBot?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/ITZ-STAR-BOY/AriciaBot/network/members"> <img src="https://img.shields.io/github/forks/ITZ-STAR-BOY/AriciaBot?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
@@ -21,7 +21,7 @@
 
 <h6 align="center"><b>⭐ If You like our repo and enjoyed the bot Plz Consider Giving Us A Star⭐ </b></h9>
 
-## Available On Telegram As [Vexana Robot](https://t.me/vexana_robot).
+## Available On Telegram As [ Miss_Aricia_bot](https://t.me/Miss_Aricia_bot).
 
 ## How to setup/deploy.
 
@@ -194,13 +194,13 @@ through the `/stats` command, which is only available to the bot owner.
 
 Once you've set up your database and your configuration is complete, simply run the bat file(if on windows) or run (Linux):
 
-`python3 -m Vexana`
+`python3 -m Aricia`
 
 You can use [nssm](https://nssm.cc/usage) to install the bot as service on windows and set it to restart on /gitpull 
 Make sure to edit the start and restart bats to your needs. 
 Note: the restart bat requires that User account control be disabled.
 
-For queries or any issues regarding the bot please open an issue ticket or visit us at [Support](https://t.m/Vexana_Support)
+For queries or any issues regarding the bot please open an issue ticket or visit us at [Support](https://t.m/Aricia_Support)
 ## How to setup on Heroku 
 For starters click on this button 
 </details>
@@ -209,8 +209,8 @@ For starters click on this button
 `Note 👎 PLease fill all the Vars in [ available config vars](../config/README.md) carefully `
 
 ```console
-Axel@MacBook~ $ git clone https://github.com/aksr-aashish/vexana
-Axel@MacBook~ $ cd vexana
+Axel@MacBook~ $ git clone https://github.com/ITZ-STAR-BOY/AriciaBot
+Axel@MacBook~ $ cd AriciaBot
 Axel@MacBook~ $ sudo bash setup
 ```
 > Setup will install each and every requirement, nodejs and pip packages automatically. After successfull installation of requirements , setup will ask you to input your vars.
@@ -223,19 +223,19 @@ Axel@MacBook~ $ bash start
 ## 🚀 Heroku Deployment
 
 <h4>Click the button below to deploy Vexana on Heroku!</h4>    
-<a href="https://heroku.com/deploy?template=https://github.com/aksr-aashish/vexana.git"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
+<a href="https://heroku.com/deploy?template=https://github.com/ITZ-STAR-BOY/AriciaBot.git"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
 
 ## 🚀 Okteto Deployment
 
 <h4>Click the button below to deploy Vexana on Okteto!</h4>
-<a href="https://cloud.okteto.com/deploy?repository=https://github.com/aksr-aashish/vexana"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200""/></a>
+<a href="https://cloud.okteto.com/deploy?repository=https://github.com/ITZ-STAR-BOY/AriciaBot"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200""/></a>
 
 
 ## Support💜
 
-<a href="https://t.me/Vexana_updates"><img src="https://img.shields.io/badge/Join-Updates%20Channel-violet.svg?logo=Telegram"></a>
+<a href="https://t.me/FURIOUS_EMPIRE"><img src="https://img.shields.io/badge/Join-Updates%20Channel-violet.svg?logo=Telegram"></a>
 
-<a href="https://t.me/vexana_support"><img src="https://img.shields.io/badge/Join-Support%20Group-purple.svg?logo=telegram"></a>
+<a href="https://t.me/ARICIA_support"><img src="https://img.shields.io/badge/Join-Support%20Group-purple.svg?logo=telegram"></a>
 
 ### Original Repo?📌
 •Original Repository ofVexana Bot Is now private there's no way you can find it anywhere now!
