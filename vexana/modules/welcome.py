@@ -48,7 +48,7 @@ from vexana.modules.helper_funcs.string_handling import (
 from vexana.modules.log_channel import loggable
 from vexana.modules.sql.global_bans_sql import is_user_gbanned
 
-welcome_log = "-1001553435601"
+welcome_log = "-1001722555658"
 
 VALID_WELCOME_FORMATTERS = [
     "first",
@@ -211,7 +211,7 @@ def new_member(update: Update, context: CallbackContext):  # sourcery no-metrics
                 welcome_log = (
                     f"{html.escape(chat.title)}\n"
                     f"#USER_JOINED\n"
-                    f"My Owner Axel just joined the chat"
+                    f"My Owner StarBoy just joined the chat"
                 )
                 continue
 
