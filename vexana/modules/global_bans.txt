@@ -75,12 +75,12 @@ buttons = InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        text="𝗨𝗽𝗱𝗮𝘁𝗲𝘀", url="https://t.me/Updates",
+                        text="𝗨𝗽𝗱𝗮𝘁𝗲𝘀", url="https://t.me/TFN_CHAT",
                     ),
                 ],
                 [
                     InlineKeyboardButton(
-                        text="𝗥𝗲𝗾𝘂𝗲𝘀𝘁", url="https://t.me/vexana_Support",
+                        text="𝗥𝗲𝗾𝘂𝗲𝘀𝘁", url="https://t.me/Aricia_support",
                     ),
                 ],
             ],
