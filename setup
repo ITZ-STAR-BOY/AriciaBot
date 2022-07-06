@@ -76,7 +76,7 @@ node(){
 
 repo(){
 	# Get git repo if the installer is runned standalone
-	[[ ! "vexana" == $(basename -s .git `git config --get remote.origin.url`) ]] &&
+	[[ ! "aricia" == $(basename -s .git `git config --get remote.origin.url`) ]] &&
 	git clone https://github.com/aksr-aashish/vexana &&  cd vexana && pip3 install -r requirements.txt
 }
 
@@ -91,7 +91,7 @@ installation(){
 }
 
 clear
-pprint "Welcome to Vexana Robot Booting Client\n\n"
+pprint "Welcome to Aricia Robot Booting Client\n\n"
 pprint "If you see any error during Installation Process, Please refer to these files for logs: "
 pprint "\nFor node js errors , Checkout nodelog.txt"
 pprint "\nFor pypi packages errors , Checkout pypilog.txt"
@@ -104,7 +104,7 @@ packages
 node
 repo
 installation
-pprint "\n\n\n\n\nVexana Robot Booting  Completed!" "cgreen"
+pprint "\n\n\n\n\nAricia Robot Booting  Completed!" "cgreen"
 sleep 4
 
 pprint "\n\n\nYour Vars have been saved Successfully!, Thanks for using Vexana Booting  Installer, now you can proceed by starting the bot with bash start!"
