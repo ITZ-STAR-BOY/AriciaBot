@@ -7,7 +7,7 @@
 </p>
 
 
-### Rest Easy Now Let Vexana Manage your group. 
+### Rest Easy Now Let Aricia Manage your group. 
 <p align="center"><a href=><img src="https://telegra.ph/file/7a256f8bd0fd88d97daf1.jpg" width="400"></a></p>
 <p align="center">
     <a href="https://github.com/ITZ-STAR-BOY/AriciaBot"> <img src="https://img.shields.io/github/repo-size/ITZ-STAR-BOY/AriciaBot?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
