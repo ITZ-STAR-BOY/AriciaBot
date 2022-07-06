@@ -1,14 +1,14 @@
-<h3 align="center"><b>✨ Vexana RoBot ✨</b></h9>
+<h3 align="center"><b>✨ Aricia Bot ✨</b></h9>
 
 <h6 align="center">A Powerful, Smart And Simple Group Manager <br> ... Written with AioGram , Pyrogram and Telethon...</h4>
 <p align='center'>
   <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat-square&logo=python&color=blue" /> </a>
-  <a href="https://github.com/aksr-aashish/vexana/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a> 
+  <a href="https://github.com/ITZ-STAR-BOY/AriciaBot/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a> 
 </p>
 
 
 ### Rest Easy Now Let Vexana Manage your group. 
-<p align="center"><a href=><img src="https://telegra.ph/file/4a7d5037bcdd1e74a517a.jpg" width="400"></a></p>
+<p align="center"><a href=><img src="https://telegra.ph/file/7a256f8bd0fd88d97daf1.jpg" width="400"></a></p>
 <p align="center">
     <a href="https://github.com/ITZ-STAR-BOY/AriciaBot"> <img src="https://img.shields.io/github/repo-size/ITZ-STAR-BOY/AriciaBot?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/ITZ-STAR-BOY/AriciaBot/commits/aksr-aashish"> <img src="https://img.shields.io/github/last-commit/ITZ-STAR-BOY/AriciaBot?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
@@ -222,12 +222,12 @@ Axel@MacBook~ $ bash start
 
 ## 🚀 Heroku Deployment
 
-<h4>Click the button below to deploy Vexana on Heroku!</h4>    
+<h4>Click the button below to deploy Aricia on Heroku!</h4>    
 <a href="https://heroku.com/deploy?template=https://github.com/ITZ-STAR-BOY/AriciaBot.git"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
 
 ## 🚀 Okteto Deployment
 
-<h4>Click the button below to deploy Vexana on Okteto!</h4>
+<h4>Click the button below to deploy Aricia on Okteto!</h4>
 <a href="https://cloud.okteto.com/deploy?repository=https://github.com/ITZ-STAR-BOY/AriciaBot"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200""/></a>
 
 
@@ -238,17 +238,17 @@ Axel@MacBook~ $ bash start
 <a href="https://t.me/ARICIA_support"><img src="https://img.shields.io/badge/Join-Support%20Group-purple.svg?logo=telegram"></a>
 
 ### Original Repo?📌
-•Original Repository ofVexana Bot Is now private there's no way you can find it anywhere now!
-If Someone's providing you the repository ofvexana and saying this is the real one... He/She is scamming you for sure. Don't believe strangers on internet and Don't let them scam you.
+•Original Repository ofAricia Bot Is now private there's no way you can find it anywhere now!
+If Someone's providing you the repository ofAricia and saying this is the real one... He/She is scamming you for sure. Don't believe strangers on internet and Don't let them scam you.
 
 ### Reason For Private Repo
 
-•Due to the so many kangers on telegram we decided to make Vexana's repo private.A
-s if so it won't effect the real Vexana speed or your Private info. 
+•Due to the so many kangers on telegram we decided to make Aricia's repo private.A
+s if so it won't effect the real Aricia speed or your Private info. 
 
 ### Wanna Contribute? 
 
-•If you wanna contribute to Vexana now Just go To The [Vexana Support Group](https://t.me/vexana_support) and ask the admin/owner that you wanna contribute and tell him/her what you wanna add if he'll eccept it then you'll be provided with another repo and asked to add your module/whatever change you want to accomplish if our Team get satisfied with your work then your work will be added to the real repo of Vexana with Proper credits. 
+•If you wanna contribute to Aricia now Just go To The [Aricia Support Group](https://t.me/ARICIA_SUPPORT) and ask the admin/owner that you wanna contribute and tell him/her what you wanna add if he'll eccept it then you'll be provided with another repo and asked to add your module/whatever change you want to accomplish if our Team get satisfied with your work then your work will be added to the real repo of Aricia with Proper credits. 
 
 ### Before Going to Support Group -
 
@@ -286,31 +286,7 @@ Things TO get instant banned -
 
 •[EveryThingSuckz](https://t.me/EveryThingSuckz) For NSFW Watch
 
-### Inspired From
+### MADE BY ❤
 
-•[SaitamaRobot](https://github.com/animekaizoku/saitamarobot)
-
-•[DaisyX](https://github.com/TeamDaisyX/DaisyX)
-
-•[TheHamkerCat](https://github.com/TheHamkerCat) In [WilliamButcherBot](https://github.com/TheHamkerCat/WilliamButcherBot)
-
-•[MarshalX](https://github.com/MarshalX/) In [PytgCalls](https://github.com/marshalx/tgcalls)
-
-[DevsExpo](https://github.com/DevsExpo) In [Friday-Userbot](https://github.com/DevsExpo/FridayUserbot)
-
-### Inspired From 
-
-
-•[SaitamaRobot](https://github.com/animekaizoku/saitamarobot)
-
-•[DaisyX](https://github.com/TeamDaisyX/DaisyX)
-
-•[WilliamButcherBot](https://github.com/TheHamkerCat/WilliamButcherBot)
-
-### ALL DEVS AND Contributors❤
-
-#### • AXEL »»  <a href="https://github.com/aksr-aashish" alt="aksr0aashish"> <img src="https://img.shields.io/badge/AXEL-90302f?logo=github" /></a> (OWNER)
-#### • Anand »»  <a href="https://github.com/Stella-80" alt="Akeno"> <img src="https://img.shields.io/badge/Akeno-95B9C7?logo=github" /></a> (Dev)
-#### • Aashish »»  <a href="https://github.com/aksr-aashish" alt="Aashish "> <img src="https://img.shields.io/badge/Aashish-95B9C7?logo=github" /></a> (Dev)
-#### • Asmita »»  <a href="https://github.com/asmita" alt="asmita"> <img src="https://img.shields.io/badge/asmita-107D8D?logo=github" /></a> (DEV)
+#### • STARBOY »»  <a href="https://github.com/ITZ-STAR-BOY" alt="STARBOY"> <img src="https://img.shields.io/badge/STARBOY-90302f?logo=github" /></a> (OWNER)
 
